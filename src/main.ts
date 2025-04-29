@@ -6,7 +6,7 @@ async function bootstrap() {
 
   app.enableCors(
     {
-      origin: ['https://chat-app-git-main-ramiros-projects-0e046e07.vercel.app/'],
+      origin: ['https://chat-app-git-main-ramiros-projects-0e046e07.vercel.app'],
       credentials: true,
     },
   );
